@@ -1,4 +1,4 @@
-# Linkidin_Auto_apply
+# Naukari_Auto_apply
 Intelligent job application automation script using Python, Selenium, and Google Gemini AI. Automatically scrapes listings, evaluates profile fit via LLM prompting, and submits applications for high-matching roles.
 
 **Note:** Although the repository is named `Linkidin_Auto_apply`, this specific workflow is designed to automate job searching, profile matching, and applying on **Naukri.com**.
